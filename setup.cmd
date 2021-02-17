@@ -1,0 +1,1 @@
+mklink /J %~dp0\Client\LinkToFolder2 %~dp0\Folder2
